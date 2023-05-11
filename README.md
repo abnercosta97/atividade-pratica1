@@ -5,10 +5,27 @@ Exercício 1: No trecho de código a seguir tem-se que a variável entrada possu
 instrução console.log exibirá o texto 1515 como resultado. Complete o código para que o resultado seja o
 número inteiro 30.
 
-`let entrada = "15";
+````
+let entrada = "15";
 entrada= parseInt(entrada);
 soma = entrada + entrada;
-console.log( soma );`
+console.log( soma );
+````
+
+Exercício 2: Complete o código para que o programa imprima de menor quando o usuário fornecer um valor
+menor que 18 e imprima de maior caso contrário.
+
+````
+let entrada = prompt("Entre com a idade:");
+entrada = parseInt(entrada);
+if(entrada < 18 ){
+ console.log("de menor");
+}
+else{
+ console.log("de maior");
+}
+`````
+
 
 Para rodar o exercicio 3 `npm run tres`
 
