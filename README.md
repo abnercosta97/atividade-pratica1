@@ -1,7 +1,7 @@
-# Atividade pratica 01 
+# Atividade prática 01 
 Matéria de Algoritimo e lógica de programação Prof.: Dr. @arleysouza
 ## Comandos para iniciar e testar programas:
-Exercício 1: No trecho de código a seguir tem-se que a variável entrada possui um valor texto. Desta forma, a
+**Exercício 1:** No trecho de código a seguir tem-se que a variável entrada possui um valor texto. Desta forma, a
 instrução console.log exibirá o texto 1515 como resultado. Complete o código para que o resultado seja o
 número inteiro 30.
 
@@ -12,7 +12,7 @@ soma = entrada + entrada;
 console.log( soma );
 ````
 
-Exercício 2: Complete o código para que o programa imprima de menor quando o usuário fornecer um valor
+**Exercício 2:** Complete o código para que o programa imprima de menor quando o usuário fornecer um valor
 menor que 18 e imprima de maior caso contrário.
 
 ````
