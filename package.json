@@ -1,0 +1,12 @@
+{
+  "name": "ativ-pratica1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": " node ./src/ativ1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
